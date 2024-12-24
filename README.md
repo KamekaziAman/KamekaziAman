@@ -1,6 +1,6 @@
 # Hi there, I'm Aman - aka kamekazi <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="280px" src="https://raw.githubusercontent.com/KamekaziAman/KamekaziAman/refs/heads/main/goku-dragon-ball-unscreen.gif" />
+<img align="right" alt="GIF" height="260px" src="https://raw.githubusercontent.com/KamekaziAman/KamekaziAman/refs/heads/main/goku-dragon-ball-unscreen.gif" />
 
 ## I'm a Backend Developer
 
